@@ -1,0 +1,16 @@
+body {
+	background-color:pink;
+	text-align:center;
+	}
+p.none {border-style: none;
+	width:20%;}
+p.dotted {border-style: dotted;
+	width:20%;}
+p.dashed {border-style: dashed;
+	  width:20%;}
+p.solid {border-style:solid; width:20%;}
+p.double {border-style:double; width:20%;}
+p.groove {border-style:double; width:20%;}
+p.ridge {border-style:ridge; width:20%;}
+p.inset {border-style:inset; width:20%;}
+p.outset {border-style:outset; width:20%;}
